@@ -1,0 +1,31 @@
+0,Account Name/Number,Symbol,Description,Quantity,Last Price,Last Price Change,Current Value,Today's Gain/Loss Dollar,Today's Gain/Loss Percent,Total Gain/Loss Dollar,Total Gain/Loss Percent,Cost Basis Per Share,Cost Basis Total,Type,Dividend Quantity,Grant ID, Grant Price,Gain Per TSRU,Offering Period Ends,Offering Period Begins,Total Balances
+1,X15693235,FCASH**,Cash,418913.24,$1.00 ,$0.00 ,"$418,913.24 ",n/a,n/a,n/a,n/a,n/a,n/a,Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2,X15693235,A,AGILENT TECHNOLOGIES INC COM USD0.01,32.607,$71.65 ,($0.09),"$2,336.29 ",($2.94),-0.13%,"$1,172.08 ",100.68%,$35.70 ,"$1,164.21 ",Margin,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+3,X15693235,JPM,JPMORGAN CHASE &CO. COM USD1.00,20,$115.30 ,$1.20 ,"$2,306.00 ",$24.00 ,1.05%,$291.45 ,14.47%,$100.73 ,"$2,014.55 ",Margin,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+4,X15693235,KEYS,KEYSIGHT TECHNOLOGIES INC COM USD0.01 WD,328.972,$91.37 ,$1.61 ,"$30,058.17 ",$529.64 ,1.79%,"$10,784.75 ",55.96%,$58.59 ,"$19,273.42 ",Margin,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+5,X15693235,NVDA,NVIDIA CORP,10,$167.61 ,$1.33 ,"$1,676.10 ",$13.30 ,0.80%,($78.85),-4.49%,$175.50 ,"$1,754.95 ",Margin,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+6,X15693235,QQQ,INVESCO QQQ TR UNIT SER 1,10,$193.53 ,$1.11 ,"$1,935.30 ",$11.10 ,0.58%,$143.45 ,8.01%,$179.19 ,"$1,791.85 ",Margin,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+7,X15693235,VNQ,VANGUARD REAL ESTATE ETF,35,$89.46 ,($0.12),"$3,131.10 ",($4.20),-0.13%,$151.15 ,5.07%,$85.14 ,"$2,979.95 ",Margin,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+8,196413828,CORE**,FDIC-INSURED DEPOSIT SWEEP,4698.68,$1.00 ,$0.00 ,"$4,698.68 ",n/a,n/a,n/a,n/a,n/a,n/a,Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+9,196413828,BIIB,BIOGEN INC COM USD0.0005,15,$231.42 ,($0.18),"$3,471.30 ",($2.70),-0.08%,$16.35 ,0.47%,$230.33 ,"$3,454.95 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+10,196413828,COST,COSTCO WHOLESALE CORP COM USD0.01,50,$279.44 ,$2.90 ,"$13,972.00 ",$145.00 ,1.05%,"$4,604.50 ",49.15%,$187.35 ,"$9,367.50 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+11,196413828,FXI,ISHARES CHINA LARGE CAP ETF,66,$42.13 ,$0.16 ,"$2,780.58 ",$10.56 ,0.38%,($139.92),-4.79%,$44.25 ,"$2,920.50 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+12,196413828,GOOGL,ALPHABET INC CAP STK CL A,5,"$1,145.34 ",$1.26 ,"$5,726.70 ",$6.30 ,0.11%,($28.25),-0.49%,"$1,150.99 ","$5,754.95 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+13,196413828,KR,KROGER CO COM USD1.00,150,$21.89 ,$0.13 ,"$3,283.50 ",$19.50 ,0.60%,($288.45),-8.08%,$23.81 ,"$3,571.95 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+14,196413828,LTC,LTC PPTYS INC,150,47.3,$0.01 ,"$7,095.00 ",$1.50 ,0.02%,"$1,390.50 ",24.38%,$38.03 ,"$5,704.50 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+15,196413828,NHI,NATIONAL HEALTH INVS INC,40,80.09,($0.04),"$3,203.60 ",($1.60),-0.05%,$490.00 ,18.06%,$67.84 ,"$2,713.60 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+16,196413828,SPY,SPDR S&P500 ETF TRUST S&P 500 ETF USD DIS,10,$300.65 ,$1.34 ,"$3,006.50 ",$13.40 ,0.45%,$111.55 ,3.85%,$289.50 ,"$2,894.95 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+17,196413828,UNH,UNITEDHEALTH GROUP,30,$265.90 ,$4.74 ,"$7,977.00 ",$142.20 ,1.81%,"$1,442.10 ",22.07%,$217.83 ,"$6,534.90 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+18,230183652,CORE**,UNFUNDED CORE POSITION,0,,$0.00 ,$0.00 ,n/a,n/a,--,--,n/a,--,,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+19,230189642,CORE**,FDIC-INSURED DEPOSIT SWEEP,13614.58,$1.00 ,$0.00 ,"$13,614.58 ",n/a,n/a,n/a,n/a,n/a,n/a,Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+20,230189642,CHCT,COMMUNITY HEALTHCARE TR INC COM,150,40.81,($0.20),"$6,121.50 ",($30.00),-0.49%,"$2,114.56 ",52.77%,$26.71 ,"$4,006.94 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+21,230189642,SPY,SPDR S&P500 ETF TRUST S&P 500 ETF USD DIS,15,$300.65 ,$1.34 ,"$4,509.75 ",$20.10 ,0.45%,$304.80 ,7.25%,$280.33 ,"$4,204.95 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+22,10082,54350Y306,LS CORE PL FXINC D,230.823,15.46,$0.01 ,"$3,568.52 ",$2.30 ,0.06%,n/a,n/a,$0.00 ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+23,10082,ACI018NX9,BTC US DEBT INDEX M,2411.354,11.844,$0.01 ,"$28,560.24 ",$20.45 ,0.07%,n/a,n/a,$0.00 ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+24,10082,GDD7,STABLE VALUE FUND,105003.61,1,$0.00 ,"$105,003.61 ",$0.00 ,0.00%,n/a,n/a,$0.00 ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+25,10082,VEMPX,VANG EXT MKT IDX ISP,158.288,$225.61 ,$1.70 ,"$35,711.35 ",$269.08 ,0.76%,n/a,n/a,$0.00 ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+26,10082,VIIIX,VANG INST INDEX PLUS,702.765,$273.06 ,$1.28 ,"$191,897.01 ",$899.53 ,0.47%,n/a,n/a,$0.00 ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+27,X64855243,CORE**,FDIC-INSURED DEPOSIT SWEEP,28640.65,$1.00 ,$0.00 ,"$28,640.65 ",n/a,n/a,n/a,n/a,n/a,n/a,Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+28,177708305,CORE**,FDIC-INSURED DEPOSIT SWEEP,24038.13,$1.00 ,$0.00 ,"$24,038.13 ",n/a,n/a,n/a,n/a,n/a,n/a,Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+29,KEYSIGHT RESTRICTED STOCK,KEYS,KEYSIGHT            TECHNOLOGIES INC COM,200,$91.37 ,--,"$18,274.00 ",n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,KTRSU4YR14,$0.00 ,n/a,n/a,n/a,n/a
+30,KEYSIGHT RESTRICTED STOCK,KEYS,KEYSIGHT            TECHNOLOGIES INC COM,168,$91.37 ,--,"$15,350.16 ",n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,KTRSU4YR14,$0.00 ,n/a,n/a,n/a,n/a

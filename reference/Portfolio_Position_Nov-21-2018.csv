@@ -1,0 +1,28 @@
+0,Account Name/Number,Symbol,Description,Quantity,Last Price,Last Price Change,Current Value,Today's Gain/Loss Dollar,Today's Gain/Loss Percent,Total Gain/Loss Dollar,Total Gain/Loss Percent,Cost Basis Per Share,Cost Basis Total,Type,Dividend Quantity,Grant ID, Grant Price,Gain Per TSRU,Offering Period Ends,Offering Period Begins,Total Balances
+1,X15693235,CORE**,UNFUNDED CORE POSITION,0,,$0.00 ,$0.00 ,n/a,n/a,--,--,n/a,--,,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2,X15693235,A,AGILENT TECH INC,62.607,$68.21 ,$0.69 ,"$4,270.42 ",$43.19 ,1.02%,"$2,039.05 ",91.38%,$35.64 ,"$2,231.37 ",Margin,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+3,X15693235,KEYS,KEYSIGHT TECHNOLOGIES INC COM,845.135,$57.64 ,$3.29 ,"$48,713.58 ","$2,780.49 ",6.05%,"$17,350.54 ",55.32%,$37.11 ,"$31,363.04 ",Margin,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+4,196413828,CORE**,FDIC-INSURED DEPOSIT SWEEP,8822.04,$1.00 ,$0.00 ,"$8,822.04 ",n/a,n/a,n/a,n/a,n/a,n/a,Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+5,196413828,COST,COSTCO WHOLESALE CORP,50,$218.09 ,($1.22),"$10,904.37 ",($61.13),-0.56%,"$1,536.88 ",16.41%,$187.35 ,"$9,367.50 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+6,196413828,FTR,FRONTIER COMMUNICATIONS CORP COM NEW,166,$3.69 ,$0.08 ,$612.54 ,$13.28 ,2.22%,($541.16),-46.91%,$6.95 ,"$1,153.70 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+7,196413828,HD,HOME DEPOT INC COM,15,$170.21 ,$1.16 ,"$2,553.15 ",$17.40 ,0.69%,($119.25),-4.46%,$178.16 ,"$2,672.40 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+8,196413828,LTC,LTC PPTYS INC,150,45.23,$0.56 ,"$6,784.50 ",$84.00 ,1.25%,"$1,080.00 ",18.93%,$38.03 ,"$5,704.50 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+9,196413828,NHI,NATIONAL HEALTH INVS INC,40,75.47,$0.23 ,"$3,018.80 ",$9.20 ,0.31%,$305.20 ,11.25%,$67.84 ,"$2,713.60 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+10,196413828,SPY,SPDR S&P 500 ETF TRUST UNIT SER 1 S&P,20,$266.53 ,$2.41 ,"$5,330.60 ",$48.20 ,0.91%,($72.94),-1.35%,$270.18 ,"$5,403.54 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+11,230183652,CORE**,UNFUNDED CORE POSITION,0,,$0.00 ,$0.00 ,n/a,n/a,--,--,n/a,--,,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+12,230189642,CORE**,FDIC-INSURED DEPOSIT SWEEP,4012.9,$1.00 ,$0.00 ,"$4,012.90 ",n/a,n/a,n/a,n/a,n/a,n/a,Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+13,230189642,CHCT,COMMUNITY HEALTHCARE TR INC COM,150,30.15,$0.27 ,"$4,522.50 ",$40.50 ,0.90%,$515.56 ,12.87%,$26.71 ,"$4,006.94 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+14,230189642,SNH,SENIOR HOUSING PROP TRUST,215,13.59,($0.02),"$2,921.85 ",($4.30),-0.15%,($771.51),-20.89%,$17.18 ,"$3,693.36 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+15,10082,54350Y306,LS CORE PL FXINC D,214.051,14.34,($0.02),"$3,069.49 ",($4.29),-0.14%,n/a,n/a,$0.00 ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+16,10082,ACI018NX9,BTC US DEBT INDEX M,281.022,10.98,($0.01),"$3,085.62 ",($1.67),-0.06%,n/a,n/a,$0.00 ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+17,10082,GDD7,STABLE VALUE FUND,13032.04,1,$0.00 ,"$13,032.04 ",$0.00 ,0.00%,n/a,n/a,$0.00 ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+18,10082,VIEIX,VANG EXT MKT IDX INS,528.819,$81.20 ,($1.31),"$42,940.10 ",($692.76),-1.59%,n/a,n/a,$0.00 ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+19,10082,VIIIX,VANG INST INDEX PLUS,1029.838,$241.38 ,($4.44),"$248,582.29 ","($4,572.49)",-1.81%,n/a,n/a,$0.00 ,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+20,X64855243,CORE**,FDIC-INSURED DEPOSIT SWEEP,452.96,$1.00 ,$0.00 ,$452.96 ,n/a,n/a,n/a,n/a,n/a,n/a,Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+21,X64855243,AAPL,APPLE INC,50,$177.60 ,$0.62 ,"$8,880.00 ",$31.00 ,0.35%,$493.73 ,5.89%,$167.73 ,"$8,386.27 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+22,X64855243,AVGO,BROADCOM INC COM,30,$231.34 ,$3.63 ,"$6,940.20 ",$108.90 ,1.59%,($513.60),-6.89%,$248.46 ,"$7,453.80 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+23,X64855243,GOOG,ALPHABET INC CAP STK CL C,10,"$1,042.53 ",$16.77 ,"$10,425.30 ",$167.70 ,1.63%,($301.56),-2.81%,"$1,072.69 ","$10,726.86 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+24,177708305,CORE**,FDIC-INSURED DEPOSIT SWEEP,14421.11,$1.00 ,$0.00 ,"$14,421.11 ",n/a,n/a,n/a,n/a,n/a,n/a,Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+25,177708305,SNH,SENIOR HOUSING PROP TRUST,500,13.59,($0.02),"$6,795.00 ",($10.00),-0.15%,($155.08),-2.23%,$13.90 ,"$6,950.08 ",Cash,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+26,KEYSIGHT RESTRICTED STOCK,KEYS,KEYSIGHT            TECHNOLOGIES INC COM,300,$57.64 ,--,"$17,292.00 ",n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,KTRSU4YR14,$0.00 ,n/a,n/a,n/a,n/a
+27,KEYSIGHT RESTRICTED STOCK,KEYS,KEYSIGHT            TECHNOLOGIES INC COM,223,$57.64 ,--,"$12,853.72 ",n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,KTRSU4YR14,$0.00 ,n/a,n/a,n/a,n/a
